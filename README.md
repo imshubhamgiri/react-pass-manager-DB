@@ -34,8 +34,8 @@ A modern **Password Manager** built with **React**, **TailwindCSS**, **Node.js**
 
 ### Clone the repository
 ```bash
-git clone https://github.com/yourusername/the-pass-mongo.git
-cd the-pass-mongo
+git clone https://github.com/imshubhamgiri/react-pass-manager-DB
+cd react-pass-manager-DB
 ```
 ## Backend setup
 - cd server
@@ -43,3 +43,7 @@ cd the-pass-mongo
  ## Install dependecies
 
  npm install
+
+ ## Start Front-end server
+
+ npm start
