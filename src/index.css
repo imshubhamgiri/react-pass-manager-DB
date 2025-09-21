@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@layer components{
+    .myContainer {
+        @apply md:container md:mx-auto md:px-40 md:py-2;
+    }
+}
